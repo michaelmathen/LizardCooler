@@ -1,0 +1,3 @@
+# LizardCooler
+
+A script to control the two fans on my lizards tanks. Not much to see here...
